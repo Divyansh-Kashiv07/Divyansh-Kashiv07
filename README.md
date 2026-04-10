@@ -1,29 +1,13 @@
-<!-- 🔥 Divyansh Builds Banner -->
+<!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/REPLACE_WITH_DIRECT_LINK/image.png" alt="Divyansh Builds Banner" width="100%" />
+  <img src="https://i.ibb.co/xKSnPwJ0/Screenshot-2026-04-11-025502.png" 
+       alt="Divyansh Builds Banner" width="100%" />
 </p>
 
-<!-- 🐍 Snake Animation -->
+<!-- 🐍 Snake -->
 <div align="center">
-
-<picture>
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-  <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-
-  <!-- Fallback -->
-  <img alt="github contribution snake animation" 
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-
-# 💫 About Me:
+  <img src="https://raw.githubusercontent.com/Divyansh-Kashiv07/Divyansh-Kashiv07/output/github-contribution-grid-snake.svg" />
+</div># 💫 About Me:
 "Transforming ideas into reality through code Let's build something amazing"<br><br><br>👨‍💻 Turning Coffee into Code | B.Tech IT Student  (NIETIAN) <br><br>I'm a tech enthusiast who believes that great software is built with passion and persistence. <br>My journey in programming started with curiosity, and now I'm deeply invested in Java <br>development and web technologies.<br><br>What drives me:<br>✨ Writing elegant, efficient code<br>🏗️ Building solutions that make a difference<br>📚 Continuous learning and growth<br>🤝 Collaborating with like-minded developers<br><br>Tech Stack: Java | HTML/CSS/JavaScript | Spring Boot | DSA<br>Currently exploring: Full-stack development, system design, and competitive programming<br><br>Open to internships, collaborations, and learning opportunities!<br>📧 Let's connect and create something impactful.
 
 
