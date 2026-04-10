@@ -4,6 +4,16 @@
        alt="Divyansh Builds Banner" width="100%" />
 </p>
 
+<!-- 🐍 Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Divyansh-Kashiv07/Divyansh-Kashiv07/output/github-contribution-grid-snake.svg" />
+</div>
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/xKSnPwJ0/Screenshot-2026-04-11-025502.png" 
+       alt="Divyansh Builds Banner" width="100%" />
+</p>
+
 <!-- 🐍 Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Divyansh-Kashiv07/Divyansh-Kashiv07/output/github-contribution-grid-snake.svg" />
