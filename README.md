@@ -1,6 +1,26 @@
+<!-- 🔥 Divyansh Builds Banner -->
 <p align="center">
-  <img src=https://kommodo.ai/i/LUQWReDC6C8i3Zckbeoq alt="Divyansh Builds Banner" width="100%" />
+  <img src="https://i.ibb.co/REPLACE_WITH_DIRECT_LINK/image.png" alt="Divyansh Builds Banner" width="100%" />
 </p>
+
+<!-- 🐍 Snake Animation -->
+<div align="center">
+
+<picture>
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+  <!-- Fallback -->
+  <img alt="github contribution snake animation" 
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 
 # 💫 About Me:
