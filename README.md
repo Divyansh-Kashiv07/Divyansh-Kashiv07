@@ -33,4 +33,6 @@ IBM SKILLS BUILD -https://www.credly.com/badges/94b9b7ed-9aa5-4c87-a5a1-961ee284
 ---
 [![](https://visitcount.itsvg.in/api?id=Divyansh-Kashiv07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![GitHub GIF](githubgif.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
