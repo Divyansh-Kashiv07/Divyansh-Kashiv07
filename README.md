@@ -14,6 +14,7 @@ Some Certificates of Anthropic - https://verify.skilljar.com/c/ymsx8egfz6kt
 2-https://verify.skilljar.com/c/pup6dk35qrcs
 3-https://verify.skilljar.com/c/856zgt9zv38a
 4-https://verify.skilljar.com/c/t9as2n7hhhds
+IBM SKILLS BUILD -https://www.credly.com/badges/94b9b7ed-9aa5-4c87-a5a1-961ee2844916/public_url
 
 
 ## 🌐 Socials:
