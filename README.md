@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Student+at++NIET;DIVYANSH+KASHIV;LEARNING+NEW+SKLLLS)](https://git.io/typing-svg)
 <!-- 🔥 Banner -->
 <p align="center">
   <img src="https://i.ibb.co/xKSnPwJ0/Screenshot-2026-04-11-025502.png" 
