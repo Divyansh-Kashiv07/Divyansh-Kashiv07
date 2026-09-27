@@ -37,7 +37,7 @@
 </a>
 
 
-<img src="https://img.shields.io/badge/LeetCode-50%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-100%2B%20Problems-fbbf24?style=for-the-badge&labelColor=0a0c15" />
 </a>
 
 <a href="https://divyportfoli-fq9hwpw7.manus.space/">
@@ -165,7 +165,7 @@ Exploring	Android Development · Java / Kotlin
 <!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ --> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=1" width="100%" /> <br/> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=3500&pause=1800&color=FB7185&center=true&vCenter=true&repeat=true&width=850&height=40&lines=%F0%9F%8F%86+Achievements+%26+Initiative" alt="Achievements" /> </a> </div>
 🏆 Highlights
 🥇 Top 1,000 of 3,000+ teams — Vibe Hacks 2.0, HackWithIndia, 2026
-🧠 50+ DSA problems solved on LeetCode using Java
+ 🧠 **100+ DSA problems solved** on LeetCode using Java
 💼 Completed JPMorgan Chase & Co. Software Engineering Job Simulation
 💼 Completed Walmart Global Tech Advanced Software Engineering Job Simulation
 💼 Completed Electronic Arts Software Engineering Job Simulation
