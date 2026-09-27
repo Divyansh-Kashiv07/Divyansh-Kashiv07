@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/B.Tech-IT%20%40%20NIET-0284c7?style=for-the-badge&labelColor=0a0c15" />
 <img src="https://img.shields.io/badge/CGPA-8.55-6366f1?style=for-the-badge&labelColor=0a0c15" />
 <img src="https://img.shields.io/badge/Focus-Java%20%26%20Backend-34d399?style=for-the-badge&labelColor=0a0c15" />
-<img src="https://img.shields.io/badge/DSA-50%2B%20Problems-fbbf24?style=for-the-badge&labelColor=0a0c15" />
+<img src="https://img.shields.io/badge/DSA-100%2B%20Problems-fbbf24?style=for-the-badge&labelColor=0a0c15" />
 
 <br/><br/>
 
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/GitHub-Divyansh--Kashiv07-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://leetcode.com/u/DivyanshKashiv07/">
+
 <img src="https://img.shields.io/badge/LeetCode-50%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
