@@ -14,14 +14,11 @@
 <br/><br/>
 
 <!-- Quote -->
-> *"Transforming ideas into reality through code. Let's build something amazing"*
+> ### *"Transforming ideas into reality through code. Let's build something amazing"*
 
 <br/>
 
-<!-- Custom Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co/xKSnPwJ0/Screenshot-2026-04-11-025502.png" alt="Divyansh Builds Banner" width="100%" />
-</p>
+
 
 <!-- Quick stat badges -->
 <img src="https://img.shields.io/badge/Education-B.Tech_IT_@_NIET-0284c7?style=for-the-badge&labelColor=0a0c15" />
