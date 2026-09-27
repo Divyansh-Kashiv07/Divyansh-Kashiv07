@@ -1,57 +1,93 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Student+at++NIET;DIVYANSH+KASHIV;LEARNING+NEW+SKLLLS)](https://git.io/typing-svg)
-<!-- 🔥 Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/xKSnPwJ0/Screenshot-2026-04-11-025502.png" 
-       alt="Divyansh Builds Banner" width="100%" />
-</p>
+<!-- ============================================================
+     ✨ DIVYANSH KASHIV — Profile README
+     Animated · Badge-heavy · GitHub Pages compatible
+     ============================================================ -->
 
-<!-- 🐍 Snake -->
+<!-- ANIMATED TOP BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:6366f1,100:a855f7&height=220&section=header&text=✨%20Divyansh%20Kashiv&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20IT%20Student%20@%20NIET&descSize=18&descColor=e2e8f0&descAlignY=55&animation=twinkling" width="100%" />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Divyansh-Kashiv07/Divyansh-Kashiv07/output/github-contribution-grid-snake.svg" />
-</div># 💫 About Me:
-"Transforming ideas into reality through code Let's build something amazing"<br><br><br>👨‍💻 Turning Coffee into Code | B.Tech IT Student  (NIETIAN) <br><br>I'm a tech enthusiast who believes that great software is built with passion and persistence. <br>My journey in programming started with curiosity, and now I'm deeply invested in Java <br>development and web technologies.<br><br>What drives me:<br>✨ Writing elegant, efficient code<br>🏗️ Building solutions that make a difference<br>📚 Continuous learning and growth<br>🤝 Collaborating with like-minded developers<br><br>Tech Stack: Java | HTML/CSS/JavaScript | Spring Boot | DSA<br>Currently exploring: Full-stack development, system design, and competitive programming<br><br>Open to internships, collaborations, and learning opportunities!<br>📧 Let's connect and create something impactful.
-<p align="left">
-  <img src="https://i.ibb.co/HTkZFWMP/AAI26OFA.jpg" alt="Oracle Certified Foundations Associate - Agentic AI" width="150"/>
+
+<!-- Animated typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Student+at++NIET;DIVYANSH+KASHIV;LEARNING+NEW+SKLLLS" alt="Typing SVG" /></a>
+
+<br/><br/>
+
+<!-- Quote -->
+> *"Transforming ideas into reality through code. Let's build something amazing"*
+
+<br/>
+
+<!-- Custom Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/xKSnPwJ0/Screenshot-2026-04-11-025502.png" alt="Divyansh Builds Banner" width="100%" />
 </p>
 
-Some Certificates of Anthropic - https://verify.skilljar.com/c/ymsx8egfz6kt
-2-https://verify.skilljar.com/c/pup6dk35qrcs
-3-https://verify.skilljar.com/c/856zgt9zv38a
-4-https://verify.skilljar.com/c/t9as2n7hhhds
-5-https://www.hackerrank.com/certificates/b5462cc9995a
-IBM SKILLS BUILD -https://www.credly.com/badges/94b9b7ed-9aa5-4c87-a5a1-961ee2844916/public_url
-Oracle Certified Foundations Associate (Agentic AI) - Certificate ID: 330368484AAI26OFA
+<!-- Quick stat badges -->
+<img src="https://img.shields.io/badge/Education-B.Tech_IT_@_NIET-0284c7?style=for-the-badge&labelColor=0a0c15" />
+<img src="https://img.shields.io/badge/Focus-Java_%26_Web_Tech-6366f1?style=for-the-badge&labelColor=0a0c15" />
+<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-34d399?style=for-the-badge&labelColor=0a0c15" />
+
+<br/><br/>
+
+<!-- Social links -->
+<a href="https://instagram.com/divyanshhh._.07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:0251ITE145@niet.co.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Divyansh-Kashiv07/Divyansh-Kashiv07/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=1" width="100%" />
+
+<br/>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=4000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=400&height=40&lines=%F0%9F%8C%9F+About+Me" alt="About Me" /></a>
+</div>
+
+```java
+public class DivyanshKashiv {
+
+    public String motto = "Transforming ideas into reality through code. Let's build something amazing";
+    public String role  = "Turning Coffee into Code | B.Tech IT Student (NIETIAN)";
+
+    public String bio = "I'm a tech enthusiast who believes that great software is built with passion and persistence. "
+                      + "My journey in programming started with curiosity, and now I'm deeply invested in Java "
+                      + "development and web technologies.";
+
+    public List<String> whatDrivesMe = List.of(
+        "✨ Writing elegant, efficient code",
+        "🏗️ Building solutions that make a difference",
+        "📚 Continuous learning and growth",
+        "🤝 Collaborating with like-minded developers"
+    );
+
+    public String techStack = "Java | HTML/CSS/JavaScript | Spring Boot | DSA";
+    public String currentlyExploring = "Full-stack development, system design, and competitive programming";
+    public String status = "Open to internships, collaborations, and learning opportunities! 📧 Let's connect and create something impactful.";
+}
 
 
 
+📜 Verification Links & Certificates
+Oracle Certified Foundations Associate (Agentic AI) — Certificate ID: 330368484AAI26OFA
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divyanshhh._.07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:0251ITE145@niet.co.in) 
+IBM SKILLS BUILD — View Credly Badge
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/apache--maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST--API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)    
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Divyansh-Kashiv07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Kashiv07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Kashiv07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+HackerRank Certificate — Verify Certificate
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Anthropic AI Certificates:
 
----
-[![](https://visitcount.itsvg.in/api?id=Divyansh-Kashiv07&icon=0&color=0)](https://visitcount.itsvg.in)
+Anthropic Cert 1
 
-![GitHub GIF](githubgif.gif)
+Anthropic Cert 2
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Anthropic Cert 3
+
+Anthropic Cert 4
