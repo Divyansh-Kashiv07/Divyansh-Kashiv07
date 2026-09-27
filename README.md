@@ -50,6 +50,31 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=4000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=400&height=40&lines=%F0%9F%8C%9F+About+Me" alt="About Me" /></a>
 </div>
+<!-- ═══════════════ CERTIFICATIONS & CREDENTIALS ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=1" width="100%" />
+
+<br/>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=4000&pause=2000&color=34D399&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%8E%93+Certifications+%26+Credentials" alt="Certifications" /></a>
+</div>
+
+<p align="left">
+  <img src="https://i.ibb.co/HTkZFWMP/AAI26OFA.jpg" alt="Oracle Certified Foundations Associate - Agentic AI" width="150"/>
+</p>
+
+### 📜 Verification Links & Certificates
+
+* **Oracle Certified Foundations Associate (Agentic AI)** — Certificate ID: `330368484AAI26OFA`
+* **IBM SkillsBuild** — [View Credly Badge](https://www.credly.com/badges/94b9b7ed-9aa5-4c87-a5a1-961ee2844916/public_url)
+* **HackerRank Certificate** — [Verify Certificate](https://www.hackerrank.com/certificates/b5462cc9995a)
+* **Anthropic AI Certificates:**
+  * [Claude Code / Prompt Engineering Certificate 1](https://verify.skilljar.com/c/ymsx8egfz6kt)
+  * [Claude Code / Prompt Engineering Certificate 2](https://verify.skilljar.com/c/pup6dk35qrcs)
+  * [Claude Code / Prompt Engineering Certificate 3](https://verify.skilljar.com/c/856zgt9zv38a)
+  * [Claude Code / Prompt Engineering Certificate 4](https://verify.skilljar.com/c/t9as2n7hhhds)
+
 
 ```java
 public class DivyanshKashiv {
@@ -74,29 +99,5 @@ public class DivyanshKashiv {
 }
 
 
--->
-📜 Verification Links & Certificates
-Oracle Certified Foundations Associate (Agentic AI) — Certificate ID: 330368484AAI26OFA
-
-IBM SKILLS BUILD — View Credly Badge
-
-HackerRank Certificate — Verify Certificate
-
-Anthropic AI Certificates:
-
-Anthropic Cert 1 - https://verify.skilljar.com/c/ymsx8egfz6kt
-
-
-Anthropic Cert 2 - https://verify.skilljar.com/c/pup6dk35qrcs
-
-Anthropic Cert 3 - https://verify.skilljar.com/c/856zgt9zv38a
-
-Anthropic Cert 4 - -https://verify.skilljar.com/c/t9as2n7hhhds
-
-IBM -https://www.credly.com/badges/94b9b7ed-9aa5-4c87-a5a1-961ee2844916/public_url
-Oracle Certified Foundations Associate (Agentic AI) - Certificate ID: 330368484AAI26OFA
-<p align="left">
-  <img src="https://i.ibb.co/HTkZFWMP/AAI26OFA.jpg" alt="Oracle Certified Foundations Associate - Agentic AI" width="150"/>
-</p>
 
 
