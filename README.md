@@ -122,82 +122,46 @@ Exploring	Android Development · Java / Kotlin
 
 🚀 LONG-TERM GOAL
    └── Build scalable, production-ready backend systems
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ --> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=1" width="100%" /> <br/> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=4000&pause=2000&color=34D399&center=true&vCenter=true&repeat=true&width=850&height=40&lines=%F0%9F%9A%80+Field+Experiments+%E2%80%94+Projects+That+Teach" alt="Projects" /> </a> </div>
-🏦 SecureBank · Java / OOP
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
-Cooperative Banking Management System
+<br/>
 
-Type	Technology	Year
-Academic Capstone	Core Java OOP	2026
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=1" width="100%" />
 
-What I built
+<br/>
 
-🏦 Cooperative banking management system
-☕ Built using Core Java and Object-Oriented Programming
-🧩 Applied OOP principles throughout the system
-📚 Created a 31-page examination guide
-📝 Maintained detailed GitHub documentation
-🎯 Developed for Object-Oriented Techniques
-🌍 Problem Statement #269 aligned with SDG 8
-🎓 Campus Placement Management System · Python / Flask
+<div align="center">
 
-Full-Stack Placement Platform for NIET
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=4000&pause=2000&color=34D399&center=true&vCenter=true&repeat=true&width=850&height=40&lines=%F0%9F%9A%80+Field+Experiments+%E2%80%94+Projects+That+Teach" alt="Projects" />
+</a>
 
-Backend	API	Deployment
-Python Flask	REST API JSON	PythonAnywhere
+</div>
 
-What I built
+### 🏦 SecureBank · `Java / OOP`
+> Cooperative banking management system built with Core Java and OOP principles, supported by detailed documentation and a 31-page examination guide.
 
-👨‍🎓 Student registration
-📅 Placement drive scheduling
-🧑‍💼 Interview tracking
-📄 Offer generation
-📊 Live analytics dashboard
-🌐 Deployed the application using PythonAnywhere
-🌌 Interactive 3D Developer Portfolio · Three.js
+### 🎓 Campus Placement Management System · `Python / Flask`
+> Full-stack NIET placement platform featuring student registration, drive scheduling, interview tracking, offer generation, and live analytics, deployed on PythonAnywhere.
 
-Interactive Creative Developer Portfolio
+### 🌌 Interactive 3D Developer Portfolio · `Three.js`
 
-<div align="center"> <a href="https://divyportfoli-fq9hwpw7.manus.space/"> <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Now-38BDF8?style=for-the-badge&labelColor=0a0c15" /> </a> </div> <br/>
-Frontend	Graphics	UI
-TypeScript	Three.js WebGL	CSS3
+<div align="center">
 
-What I built
+<a href="https://divyportfoli-fq9hwpw7.manus.space/">
+<img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Now-38BDF8?style=for-the-badge&labelColor=0a0c15" />
+</a>
 
-🖱️ Cursor-reactive 3D experience
-🪟 Glassmorphism-inspired interface
-🎨 Interactive WebGL elements
-⚡ Performance-conscious rendering
-👁️ IntersectionObserver based optimization
-🚀 Designed to avoid unnecessary idle GPU usage
-🐍 VenomX · C++ / raylib
+</div>
 
-Modular Snake Game
+> Interactive 3D portfolio featuring cursor-reactive WebGL, glassmorphism UI, and performance-conscious rendering with TypeScript and Three.js.
 
-Language	Engine	Architecture
-C++	raylib 5.0	12 Modular Components
+`TypeScript` `Three.js` `WebGL` `CSS3`
 
-What I built
+### 🐍 VenomX · `C++ / raylib`
+> Modular Snake game built with C++ and raylib 5.0, featuring power-ups, obstacles, scoring, themes, audio, and a 12-component architecture.
 
-🐍 Complete Snake game using raylib 5.0
-🎮 Game mechanics and controls
-⚡ Power-up system
-🧱 Obstacle system
-📊 Score management
-🎨 Theme management
-🔊 Audio management
-🧩 Modular architecture across 12 components
-
-Architecture
-
-Game
- ├── Snake
- ├── Food
- ├── PowerUp
- ├── Obstacle
- ├── ScoreManager
- ├── ThemeManager
- └── AudioManager
+`C++` `raylib 5.0` `Modular Architecture`
 <!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ --> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,30&height=1" width="100%" /> <br/> <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=22&duration=3500&pause=1800&color=FB7185&center=true&vCenter=true&repeat=true&width=850&height=40&lines=%F0%9F%8F%86+Achievements+%26+Initiative" alt="Achievements" /> </a> </div>
 🏆 Highlights
 🥇 Top 1,000 of 3,000+ teams — Vibe Hacks 2.0, HackWithIndia, 2026
