@@ -302,6 +302,7 @@ Always learning. Always building. Always improving.
 Built with curiosity, consistency, and a lot of ☕.
 
 </div> ```
+<img align='center'  height="60" alt="Thanks" width="100%" src="/assets/Thanks.svg"/> 
 
 ```java
 public class DivyanshKashiv {
