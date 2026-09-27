@@ -74,7 +74,7 @@ public class DivyanshKashiv {
 }
 
 
-
+-->
 📜 Verification Links & Certificates
 Oracle Certified Foundations Associate (Agentic AI) — Certificate ID: 330368484AAI26OFA
 
@@ -84,10 +84,19 @@ HackerRank Certificate — Verify Certificate
 
 Anthropic AI Certificates:
 
-Anthropic Cert 1
+Anthropic Cert 1 - https://verify.skilljar.com/c/ymsx8egfz6kt
 
-Anthropic Cert 2
 
-Anthropic Cert 3
+Anthropic Cert 2 - https://verify.skilljar.com/c/pup6dk35qrcs
 
-Anthropic Cert 4
+Anthropic Cert 3 - https://verify.skilljar.com/c/856zgt9zv38a
+
+Anthropic Cert 4 - -https://verify.skilljar.com/c/t9as2n7hhhds
+
+IBM -https://www.credly.com/badges/94b9b7ed-9aa5-4c87-a5a1-961ee2844916/public_url
+Oracle Certified Foundations Associate (Agentic AI) - Certificate ID: 330368484AAI26OFA
+<p align="left">
+  <img src="https://i.ibb.co/HTkZFWMP/AAI26OFA.jpg" alt="Oracle Certified Foundations Associate - Agentic AI" width="150"/>
+</p>
+
+
