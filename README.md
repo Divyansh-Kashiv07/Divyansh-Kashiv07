@@ -289,7 +289,7 @@ Always learning. Always building. Always improving.
 
   
 
-<a href="https://leetcode.com/u/DivyanshKashiv07/"> <img src="https://img.shields.io/badge/🧠_LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&labelColor=0a0c15" /> </a>
+ <img src="https://img.shields.io/badge/🧠_LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&labelColor=0a0c15" /> </a>
 
   
 
